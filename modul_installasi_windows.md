@@ -34,6 +34,7 @@ Berikut ini adalah cara untuk melakukan booting pada sistem operasi Windows 10:
     3. Unduh aplikasi Rufus, yang digunakan untuk mengatur booting file ISO ke dalam flashdisk yang telah dipersiapkan.
     4. Setelah semuanya siap, hubungkan flashdisk ke komputer atau laptop dan jalankan aplikasi Rufus.
     5. Pilih perangkat flashdisk yang akan digunakan sebagai media installer Windows 10.
+    ![image](https://user-images.githubusercontent.com/82330418/227784694-1523bfa2-9980-4c71-86e4-5b61131bf3db.png)
     6. Pilih file ISO yang telah diunduh pada opsi boot selection.
     7. Pilih standar instalasi Windows pada opsi image option.
     8. Pilih partisi GPT dan sistem target UEFI pada opsi partisi.
@@ -53,21 +54,22 @@ Berikut ini adalah cara untuk melakukan booting pada sistem operasi Windows 10:
 # Instalasi Windows 10
 Berikut adalah cara melakukan instalasi Windows 10:
 
-    1. Setelah proses booting selesai, pengguna akan diarahkan ke halaman instalasi Windows.
-    2. Tekan tombol 'Install'.
-    3. Pilih bahasa dan zona waktu yang diinginkan, kemudian klik 'Next'.
-    4. Jika pengguna tidak memiliki nomor serial atau kunci produk, klik 'I don't have a product key'.
-    5. Kemudian, muncul jendela untuk memilih sistem operasi (OS), pilih 'Windows 10 Pro', lalu klik 'Next'.
-    6. Selanjutnya, pilih opsi 'Custom Install Windows'.
-    7. Buat partisi pada hardisk, misalnya SSD baru dengan kapasitas 256GB, lalu pecah menjadi 2 partisi, yaitu partisi C dan D. Partisi C dibuat dengan ukuran 128GB untuk OS, sedangkan partisi D digunakan untuk data yang tersisa.
-    8. Klik 'New', lalu isikan ukuran partisi C dengan 128GB, kemudian klik 'Apply', dan klik 'OK'.
-    9. Selanjutnya, klik drive yang berada di paling bawah yaitu sisa dari partisi tersebut, kemudian klik 'Apply' tanpa mengubah kapasitasnya, karena hanya dibuat 2 partisi.
-    10. Lalu, pilih partisi yang berkapasitas 128GB atau partisi kedua sesuai dengan yang diinginkan, yaitu partisi C sebagai tempat OS, lalu klik 'Next'.
-    10. Tunggu hingga proses instalasi selesai.
-    11. Setelah selesai, tunggu sistem akan restart secara otomatis.
-    12. Setelah restart selesai, muncul tampilan Windows 10, ubah wilayah sesuai keinginan, lalu klik 'Yes'.
-    13. Selanjutnya, ikuti perintah-perintah yang muncul untuk menyelesaikan instalasi, dan sesuaikan dengan perangkat laptop Anda.
-    14. Instalasi selesai.
+1. Setelah proses booting selesai, pengguna akan diarahkan ke halaman instalasi Windows.
+2. Selanjutnya, pilih bahasa dan zona waktu, lalu tekan tombol "Next".
+3. Tekan tombol "Install".
+4. Kemudian, akan muncul aktivasi Windows. Jika Anda tidak memiliki nomor seri atau kunci produk, klik "I don't have a product key" atau "Skip".
+5. Pilih sistem operasi Windows 10 Pro dari jendela yang muncul, lalu klik "Next".
+6. Centang kotak persyaratan lisensi.
+7. Pilih opsi "Custom install Windows".
+8. Buat partisi pada hardisk. Misalnya, jika menggunakan SSD baru dengan kapasitas 256GB, partisi dapat dibuat menjadi dua bagian: partisi C dan D. Partisi C dibuat dengan kapasitas 128GB untuk sistem operasi, sementara partisi D digunakan untuk data lainnya.
+9. Klik tombol "New" dan masukkan kapasitas 128GB, lalu klik "Apply" dan "OK".
+10. Selanjutnya, klik drive yang terdapat pada partisi yang tersisa tanpa mengubah kapasitasnya, karena hanya dibuat dua partisi.
+11. Pilih partisi yang berkapasitas 128GB atau partisi kedua yang diinginkan untuk menjadi tempat instalasi sistem operasi, yaitu partisi C, lalu klik "Next".
+12. Tunggu hingga proses instalasi selesai.
+13. Setelah selesai, tunggu hingga komputer merestart secara otomatis.
+14. Setelah restart, muncul tampilan Windows 10. Ubah wilayah sesuai kebutuhan, lalu klik "Yes".
+15. Selanjutnya, ikuti perintah yang muncul sesuai dengan jenis laptop yang digunakan.
+16. Instalasi selesai.
 
 # Menginstall dan update driver pada laptop atau pc:
 Terdapat dua metode untuk menginstal dan mengupdate driver pada laptop atau PC, yaitu dengan cara otomatis dan cara manual. Berikut adalah cara menginstal dan mengupdate driver secara manual:
