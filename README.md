@@ -22,5 +22,5 @@ tutorial install dan booting windows 10 untuk laptop dan pc menggunakan Rufush d
 Demikian dokument ini saya buat. semoga bermanfaat.
 
 
-## Author:
+### Author:
 [Alif Budiman Wahabbi](https://github.com/alipbudiman)
