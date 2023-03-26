@@ -17,7 +17,7 @@ tutorial install dan booting windows 10 untuk laptop dan pc menggunakan Rufush d
 
 **_berikut untuk document versi word nya:_**
 
-1. [Word-Install & error beep](document/)
+1. [Word- Install Win 10 & Error beep](document/)
 
 
 Demikian dokument ini saya buat. semoga bermanfaat.
