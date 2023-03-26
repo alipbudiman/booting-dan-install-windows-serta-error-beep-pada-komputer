@@ -14,9 +14,7 @@
 
 # Windows 10
 
-<div style="text-align:center">
-  <img src="assets/Blue-Wallpaper-Windows-10-HD-2880x1800-2-1.webp" alt="Windows 10">
-</div>
+![Windows 10](assets/Blue-Wallpaper-Windows-10-HD-2880x1800-2-1.webp)
 
 Windows merupakan sistem operasi yang dikembangkan oleh perusahaan teknologi asal Amerika Serikat, Microsoft. Sistem operasi Windows dirilis pertama kali pada tahun 1985 dan menjadi sistem operasi yang paling banyak digunakan di dunia. Windows 10 adalah versi terbaru dari sistem operasi Windows yang dirilis pada tahun 2015. Windows 10 memiliki berbagai fitur baru seperti Cortana, Microsoft Edge, dan sistem keamanan yang lebih baik. Sistem operasi ini juga mendukung berbagai perangkat seperti komputer desktop, laptop, tablet, dan smartphone. Windows 10 juga mendukung penggunaan aplikasi dan program dari Windows Store. Dengan fitur-fitur dan kemampuan yang lebih baik, Windows 10 menjadi pilihan yang tepat bagi pengguna yang membutuhkan sistem operasi yang dapat diandalkan dan mudah digunakan.
 
