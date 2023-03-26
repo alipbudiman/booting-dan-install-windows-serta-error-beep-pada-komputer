@@ -34,7 +34,7 @@ Berikut ini adalah cara untuk melakukan booting pada sistem operasi Windows 10:
     3. Unduh aplikasi Rufus, yang digunakan untuk mengatur booting file ISO ke dalam flashdisk yang telah dipersiapkan.
     4. Setelah semuanya siap, hubungkan flashdisk ke komputer atau laptop dan jalankan aplikasi Rufus.
     5. Pilih perangkat flashdisk yang akan digunakan sebagai media installer Windows 10.
-    ![image](https://user-images.githubusercontent.com/82330418/227784694-1523bfa2-9980-4c71-86e4-5b61131bf3db.png)
+![image](https://user-images.githubusercontent.com/82330418/227784694-1523bfa2-9980-4c71-86e4-5b61131bf3db.png)
     6. Pilih file ISO yang telah diunduh pada opsi boot selection.
     7. Pilih standar instalasi Windows pada opsi image option.
     8. Pilih partisi GPT dan sistem target UEFI pada opsi partisi.
