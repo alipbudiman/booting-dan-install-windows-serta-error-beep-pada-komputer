@@ -1,6 +1,7 @@
 # EROR BEEP PADA KOMPUTER
 
-disusun oleh: Alif Budiman Wahabbi
+## disusun oleh: Alif Budiman Wahabbi
+
 [<- Back](https://github.com/alipbudiman/booting-dan-install-windows-serta-error-beep-pada-komputer)
 ---
 [![bios](assets/bios_log.png "rufus")](https://en.wikipedia.org/wiki/BIOS)
@@ -75,3 +76,6 @@ Kode beep pada Phoenix BIOS sedikit berbeda dengan bunyi beep pada type BIOS lai
 
 # Akhir kata
 Dengan mengetahui arti dari bunyi beep pada PC, kalian dapat mengidentifikasi dan mengetahui apa yang terjadi pada hardware PC kalian. Hal ini sangat penting untuk membantu kalian memperbaiki kerusakan yang mungkin terjadi pada PC kalian. Jadi, jika kalian mendengar bunyi beep pada PC kalian, jangan panik dan coba untuk mencari tahu arti dari bunyi beep tersebut. Dengan begitu, kalian dapat mengambil tindakan yang tepat untuk memperbaiki PC kalian.
+---
+
+[<- Back](https://github.com/alipbudiman/booting-dan-install-windows-serta-error-beep-pada-komputer)
