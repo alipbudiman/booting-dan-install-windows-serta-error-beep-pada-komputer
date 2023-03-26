@@ -1,4 +1,4 @@
-# booting dan install windows10 & permasalah pada komputer
+# booting dan install windows serta error beep pada komputer
 
 ---
 
@@ -8,7 +8,7 @@
 
 ---
 
-tutorial install dan booting windows 10 untuk laptop dan pc menggunakan Rufush dan Flash-disk dan permasalah pada komputer
+tutorial install dan booting windows 10 untuk laptop dan pc menggunakan Rufush dan Flash-disk error beep pada komputer.
 
 Silahkan klick di sini untuk melihat dokumentasi
 
