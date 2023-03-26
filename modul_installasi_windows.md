@@ -1,6 +1,8 @@
 # TUTORIAL INSTALASI WINDOWS 10
 
-disusun oleh: Alif Budiman Wahabbi
+[<- Back](https://github.com/alipbudiman/booting-dan-install-windows-serta-error-beep-pada-komputer)
+
+## disusun oleh: Alif Budiman Wahabbi
 
 ---
 
@@ -98,3 +100,7 @@ Terdapat dua metode untuk menginstal dan mengupdate driver pada laptop atau PC, 
 
 # Akhir kata
 Dalam menggunakan komputer atau laptop, terkadang kita membutuhkan bantuan untuk mengatasi beberapa masalah teknis. Namun, dengan mengetahui beberapa langkah dasar seperti cara install dan update driver, atau cara menginstall sistem operasi, kita dapat memperbaiki masalah tersebut dengan mudah. Penting untuk selalu memperbarui driver dan sistem operasi agar perangkat kita selalu berfungsi dengan baik dan terhindar dari kerentanan keamanan. Semoga informasi ini bermanfaat bagi Anda dalam mengelola perangkat teknologi Anda.
+
+---
+
+[<- Back](https://github.com/alipbudiman/booting-dan-install-windows-serta-error-beep-pada-komputer)
