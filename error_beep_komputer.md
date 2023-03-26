@@ -1,11 +1,9 @@
 # EROR BEEP PADA KOMPUTER
+
 [<- Back](https://github.com/alipbudiman/booting-dan-install-windows-serta-error-beep-pada-komputer)
 
 ## disusun oleh: Alif Budiman Wahabbi
 ---
-
-[<- Back](https://github.com/alipbudiman/booting-dan-install-windows-serta-error-beep-pada-komputer)
-
 [![bios](assets/bios_log.png "rufus")](https://en.wikipedia.org/wiki/BIOS)
 [![LICENSE](assets/cc_log.png "LICENSE")](assets/LICENSE)
 
