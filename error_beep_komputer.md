@@ -13,9 +13,7 @@
 
 Kadang-kadang ada beberapa orang yang pernah mendengar suara beep pada PC, namun mereka tidak memahami arti dari bunyi beep tersebut. Hal ini membuat mereka kesulitan ketika ada kerusakan pada PC dan tidak tahu apa yang harus dicari untuk mengetahui penyebabnya. Oleh karena itu, saya akan memberikan penjelasan tentang arti bunyi beep pada PC agar kalian dapat lebih memahami dan mengetahui penyebab kerusakan yang mungkin terjadi.
 
-<div style="text-align:center">
-  <img src="assets/31dXtOoEJnL.jpg" alt="Speaker">
-</div>
+![Speaker](assets/31dXtOoEJnL.jpg)
 
 Saat PC dinyalakan, secara otomatis akan melakukan POST (Power On Self Test) untuk mengecek kinerja hardware yang terpasang di dalamnya. Speaker kecil di dalam PC akan memberikan bunyi beep sebagai sinyal jika ada masalah pada hardware yang ditemukan selama proses POST. Jumlah bunyi beep yang dihasilkan akan menunjukkan jenis dan tingkat kerusakan yang terjadi pada PC. Sebagai contoh, jika PC normal maka akan menghasilkan satu kali bunyi pendek, sedangkan jika terdapat masalah maka akan mengeluarkan bunyi beep dengan pola tertentu yang mengindikasikan jenis kerusakan yang terjadi. Dengan mengetahui jenis bunyi beep yang dihasilkan, maka kita bisa mengetahui jenis masalah yang terjadi pada PC dan memperbaikinya dengan tepat.
 
