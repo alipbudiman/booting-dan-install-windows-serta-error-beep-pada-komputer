@@ -5,7 +5,7 @@ disusun oleh: Alif Budiman Wahabbi
 ---
 
 [![Windows 10](/assets/win10_log.png "Windows 10")](https://www.microsoft.com/en-us/software-download/windows10)
-[![rufus](assets/bios_log.png "rufus")](https://en.wikipedia.org/wiki/BIOS)
+[![bios](assets/bios_log.png "rufus")](https://en.wikipedia.org/wiki/BIOS)
 [![LICENSE](assets/cc_log.png "LICENSE")](assets/LICENSE)
 
 ---
