@@ -12,4 +12,8 @@ tutorial install dan booting windows 10 untuk laptop dan pc menggunakan Rufush d
 
 Silahkan klick di sini untuk melihat dokumentasi
 
-1. [install dan booting windows 10 menggunakan rufush](modul_installasi_windows.md)
+1. [Install dan booting windows 10 menggunakan rufush](modul_installasi_windows.md)
+2. [Error brrp (bunyi) pada komputer](error_beep_komputer.md)
+
+
+Demikian dokument ini saya buat. semoga bermanfaat.
