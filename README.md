@@ -12,4 +12,4 @@ tutorial install dan booting windows 10 untuk laptop dan pc menggunakan Rufush d
 
 Silahkan klick di sini untuk melihat dokumentasi
 
-[install dan booting windows 10 menggunakan rufush](modul_installasi_windows.md)
+1. [install dan booting windows 10 menggunakan rufush](modul_installasi_windows.md)
