@@ -10,10 +10,14 @@
 
 tutorial install dan booting windows 10 untuk laptop dan pc menggunakan Rufush dan Flash-disk error beep pada komputer.
 
-*Silahkan klick di sini untuk melihat dokumentasi:*
+_Silahkan klick di sini untuk melihat dokumentasi:_
 
 1. [Install dan booting windows 10 menggunakan rufush](modul_installasi_windows.md)
 2. [Error beep (bunyi) pada komputer](error_beep_komputer.md)
+
+_berikut untuk document versi word nya_
+
+1. [Word-Install & error beep](document/)
 
 
 Demikian dokument ini saya buat. semoga bermanfaat.
