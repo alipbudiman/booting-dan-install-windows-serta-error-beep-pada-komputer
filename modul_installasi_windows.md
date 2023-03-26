@@ -23,6 +23,8 @@ Windows merupakan sistem operasi yang dikembangkan oleh perusahaan teknologi asa
 
 Kamu bisa mendownload windows10 [di sini](https://www.microsoft.com/en-us/software-download/windows10)
 
+Kamu bisa download Rufus [di sini](https://rufus.ie/en/)
+
 
 # Tutorial booting sistem operasi windows 10
 Berikut ini adalah cara untuk melakukan booting pada sistem operasi Windows 10:
